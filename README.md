@@ -1,0 +1,1 @@
+# Proyecto Privado Este es un repositorio privado creado con la ayuda de Claude utilizando el GitHub Bridge. ## CaracterÃ­sticas - Solo visible para el propietario - Creado mediante un bridge personalizado - DemostraciÃ³n de integraciÃ³n entre Claude y GitHub ## PrÃ³ximos pasos - AÃ±adir mÃ¡s archivos - Implementar funcionalidades - Desarrollar documentaciÃ³n
